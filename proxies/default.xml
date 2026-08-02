@@ -1,1 +1,0 @@
-<ProxyEndpoint name="default"><HTTPProxyConnection><BasePath>/poc</BasePath></HTTPProxyConnection><RouteRule name="noroute"/></ProxyEndpoint>
